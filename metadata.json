@@ -1,7 +1,7 @@
 {
 	"name": "Auto select headphones",
 	"description": "Auto selects headphones when possible instead of showing a dialogue",
-	"uuid": "autoselectheadset@celynw.github.com",
+	"uuid": "autoselectheadphones@celynw.github.io",
 	"url": "https://github.com/celynw/gnome-shell-auto-audio-select",
 	"version": "11",
 	"shell-version": [
