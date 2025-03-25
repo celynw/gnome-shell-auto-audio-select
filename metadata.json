@@ -1,10 +1,15 @@
 {
-  "name": "Auto select headset",
-  "description": "Auto selects headsets when possible instead of showing a dialog",
-  "uuid": "autoselectheadset@josephlbarnett.github.com",
-  "url": "https://github.com/josephlbarnett/autoselectheadset-gnome-shell-extension",
-  "version": "7",
-  "shell-version": [
-    "3.38", "40", "41", "42", "43", "44"
-  ]
+	"name": "Auto select headphones",
+	"description": "Auto selects headphones when possible instead of showing a dialogue",
+	"uuid": "autoselectheadset@celynw.github.com",
+	"url": "https://github.com/celynw/gnome-shell-auto-audio-select",
+	"version": "11",
+	"shell-version": [
+		"3.38",
+		"40",
+		"41",
+		"42",
+		"43",
+		"44"
+	]
 }
